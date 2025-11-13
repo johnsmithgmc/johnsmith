@@ -1,0 +1,14 @@
+sentence:="this is a sentence"
+vowel_count :=0
+word_count:=0
+s:=0
+
+WHILE(S<EN(sentence)) DO:
+IF S='e'OR s='i'OR s ='O'OR s='u'
+'i'OR s=
+'o'OR s='u':
+vowel_count=count +1
+IF s="":
+word_count= word _count +1
+
+WRITE (word _ count, vowel_ count)
